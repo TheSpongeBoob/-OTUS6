@@ -379,6 +379,7 @@
   <enums>Enum.СостоянияЗаказов</enums>
   <enums>Enum.НазначениеХарактеристик</enums>
   <enums>Enum.ИспользоватьПровайдерГеопозиционирования</enums>
+  <enums>Enum.Улицы</enums>
   <reports>Report.ВзаимосвязьПродажТоваров</reports>
   <reports>Report.ДашбордПродажи</reports>
   <reports>Report.ДинамикаПродаж</reports>

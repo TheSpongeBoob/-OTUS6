@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="926cbc77-3314-4295-8096-5c0125b42ffc">
+  <producedTypes>
+    <refType typeId="849e8efa-bf38-4c1c-ad5d-d4205271861a" valueTypeId="3bfabc37-4586-4742-9f78-08df028f103a"/>
+    <listType typeId="140b6757-946a-47fa-842e-568d55c8b679" valueTypeId="ba241a46-369c-4e2a-8aba-360f79da8d86"/>
+    <managerType typeId="00ef1a11-4202-4692-bed5-6c017867b638" valueTypeId="67a54808-90d7-44a2-b8a8-1bc94b1a966f"/>
+  </producedTypes>
+  <name>Улицы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Улицы</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="f89610aa-12fc-45fa-b8ff-bed0668fafd3">
+    <name>Ленина</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ленина</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
